@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "💮 Distube Bot [ Free Tier ] ";
-const text = "GlaceYT";
+const botName = "💮 GTP Music";
+const text = "GTP";
 const version = "Latest@ v1.0";
 const startTime = Date.now();
 
